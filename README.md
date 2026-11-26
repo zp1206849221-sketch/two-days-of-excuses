@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=two-days-of-excuses)
 [![rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/zp1206849221-sketch/two-days-of-excuses/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=two-days-of-excuses)
-[![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=two-days-of-excuses)
+[![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/zp1206849221-sketch/two-days-of-excuses/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=two-days-of-excuses)
 
 # Two Days of Excuses
 
